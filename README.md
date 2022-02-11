@@ -1,6 +1,7 @@
 # ElectroMagneticShowerSimulator
 
-Embryo of prototype to study GPU acceleration techniques for Electro-Magnetic Shower simulations. [Unfinished project (2014).]
+Embryo of prototype to study GPU acceleration techniques for Electro-Magnetic Shower simulations. <br>
+[Unfinished project (2014).]
 
 ## To setup CUDA
 ```
